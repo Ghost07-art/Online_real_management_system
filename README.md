@@ -127,8 +127,8 @@ JAVA Project/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/online-real-estate-system.git
-   cd online-real-estate-system
+   git clone https://github.com/Ghost07-art/Online_real_management_system.git
+   cd Online_real_management_system
    ```
 
 2. **Run using the batch file (Windows)**:
